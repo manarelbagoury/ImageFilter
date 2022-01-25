@@ -6,6 +6,7 @@ a C# program that removes noise in images using two filters:  Alpha-Trim Filter 
 Alpha-Trim Filter
  - Using Counting sort
  - Using Select Kth smallest/largest element
+
 Adaptive Med Filter
  - Using Counting sort
  - Using Quick sort
